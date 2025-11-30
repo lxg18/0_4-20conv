@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Conv 0_4-20 1.1
+---------------------------------------------------
+
+app_name - 						Conv 0_4-20
+app_alias - 					conv0420
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Saha Respublika
+app_author_country - 			Russian Federation
+app_password - 					jPgUEQES9Ecs
+app_versionName - 				versionName "1.1"
+app_versionCode - 				101
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Sunday 30th of November 2025 12:50:05 PM
+
+https://webintoapp.com
+---------------------------------------------------
+
